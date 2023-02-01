@@ -76,6 +76,6 @@ public class menuu {
   
 	}
 
-	/*ALEXIS ADRIAN ABARCA ARGUELLO
+	/*Orlando Pérez Aquino
 	 */
 }
